@@ -24,6 +24,9 @@ git push -u origin main
 git remote -v
 
 
+git config --global http.proxy http://127.0.0.1:7890
+git config --global https.proxy http://127.0.0.1:7890  #代理设置
+
 
 ## **分支管理**
 bash
