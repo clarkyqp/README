@@ -14,8 +14,13 @@ git add .             # 添加所有变更文件
 git commit -m "msg"   # 提交暂存区内容
 git commit -am "msg"  # 跳过暂存直接提交所有跟踪文件
 
+
+git add README.md
+
 git remote add origin https://github.com/clarkyqp/README.git
 git remote set-url origin https://github.com/clarkyqp/README.git
+
+git push -u origin main
 
 ## **分支管理**
 bash
