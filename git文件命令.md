@@ -21,6 +21,9 @@ git remote add origin https://github.com/clarkyqp/README.git
 git remote set-url origin https://github.com/clarkyqp/README.git
 
 git push -u origin main
+git remote -v
+
+
 
 ## **分支管理**
 bash
