@@ -88,6 +88,3 @@ git --help            # 查看所有命令
 git <cmd> --help      # 查看具体命令帮助
 
 
-> **常用工作流程：** `git add . → git commit -m "msg" → git pull → git push`
-
-需要我针对某个具体命令提供更详细的使用示例吗？
